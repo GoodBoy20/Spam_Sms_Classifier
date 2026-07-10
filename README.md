@@ -1,5 +1,11 @@
 #  SMS Spam Classifier
 
+## 🚀 Live Demo
+
+**Live Application:** https://spamsmclassifier.streamlit.app
+
+**GitHub Repository:** https://github.com/GoodBoy20/Spam_Sms_Classifier
+
 A machine learning-powered web application that classifies SMS messages as **Spam** or **Not Spam** using Natural Language Processing (NLP) techniques and a Multinomial Naive Bayes classifier.
 
 ## Overview
